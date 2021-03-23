@@ -1,0 +1,19 @@
+{
+  "media": [
+    {
+      "name": "photo",
+      "extension": [".png", ".jpg", ".jpeg"],
+      "location": []
+    },
+    {
+      "name": "video",
+      "extension": [".mp4"],
+      "location": []
+    },
+    {
+      "name": "audio",
+      "extension": [".mp3", ".wav", ".flac"],
+      "location": []
+    }
+  ]
+}
